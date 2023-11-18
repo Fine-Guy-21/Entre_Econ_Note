@@ -1,1 +1,73 @@
+Chapter One
+Basics of Economics     
+    # Definition of economics
+        "There is no universally accepted definition of economics, because different economists defined economics 
+         from different perspectives."
+         "Economics is a social science which studies about efficient allocation of scarce resources so as to attain 
+          the maximum fulfillment of unlimited human needs."
+         "economics is a science of choice, it studies how people choose to use scarce or limited productive resources
+          to produce something"
+        Key points
+         * Study about scarce resources
+         * Study about allocation of resources;
+         * Allocation should be efficient;
+         * Human needs are unlimited
+         * Study how to satisfy the unlimited human needs 
+
+    # The rationales of economics
+        The two fundamental facts 
+            * Human ("society's") material wants are unlimited
+            * Economic resources are limited ("scarce").
+        - Study How we make choices to use the scarce resources ( Decision Making)
+        - Study How various choice s outcome based on Efficiency , Equity , Stability  
+    # Scope and method of analysis in economics
+        # Scope of economics
+        the core of modern economics is formed by its two major branches:             
+
+        "Microeconomics" 
+             concerned with the economic behavior of individual decision making
+             Studies "individual" economic units of an economy.
+             Its central problem is "price determination" and "allocation of resources".
+             Its main tools are the demand and supply of "particular" commodities and factors
+             Concerned with how the "equilibrium" of "a consumer", "a producer" or "an industry" is attained
+
+        "Macroeconomics" 
+             deals with the effects and consequences of the aggregate behaviour of all decision making 
+             Studies an economy as a "whole" and its "aggregates"
+             Its central problem is determination of "level of income" and "employment".
+             Its main tools are "aggregate" demand and "aggregate" supply of an economy as a "whole"
+             Concerned with the determination of "equilibrium" "levels of income" and "employment" at "aggregate level".
+    
+    #  Positive and normative analysis
+        The two perspectives of economics are :
+
+            "Positive Economics" 
+                Concerned with analysis of facts and attempts describe the world as it is 
+                It does not judge a system as good or bad, better or worse
+            "Normative Economics"
+                Evaluates the desirability of alternative outcomes based on ones value judgments about what is good or what is bad 
+                It is loaded with judgments 
+                It is a matter of opinion Since What is good for one may not be the same for others
+                Any disagreement can be solved by voting  
+
+    # Inductive & Deductive Reasoning in economics 
+        The two methods of logical reasoning :
+            
+            "Inductive reasoning" 
+                A logical method of "reaching" at a "correct general statement" from several "independent" and "specific correct statements".
+                Deriving theory by moving from "facts" to "theories" and from "particular" to "general" economic analysis. 
+                It involves :
+                    1. Selecting problem for analysis
+                    2. Collection, classification, and analysis of data
+                    3. Establishing cause and effect relationship between economic phenomena.
+            "Deductive reasoning"
+                A logical way of arriving at a particular or specific correct statement starting from a correct general statement.
+                It involves :
+                    1. Problem identification
+                    2. Specification of the assumptions
+                    3. Formulating hypotheses
+                    4. Testing the validity of the hypotheses
+                
+
+
 
