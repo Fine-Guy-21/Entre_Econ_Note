@@ -22,7 +22,7 @@ Basics of Economics
         - Study How various choice s outcome based on Efficiency , Equity , Stability  
     # Scope and method of analysis in economics
         # Scope of economics
-        the core of modern economics is formed by its two major branches:             
+            the core of modern economics is formed by its two major branches:             
 
         "Microeconomics" 
              concerned with the economic behavior of individual decision making
@@ -67,6 +67,158 @@ Basics of Economics
                     2. Specification of the assumptions
                     3. Formulating hypotheses
                     4. Testing the validity of the hypotheses
+        # Scarcity, choice, opportunity cost and production possibilities frontier
+            The central purpose of economic activity :
+                - Production of goods and services to satisfy consumers needs and wants
+                - To meet peoples need for consumption both means of Survival & satisfy ever growing demand for improvised lifestyle
+
+            1."Scarcity" :
+                refers to all economic resources that are required to produce goods & services are finite or limited  
+                it reflect the imbalance of wants & the means to satisfy the wants 
+            
+                "Resources" 
+                    "Free resources" - available amount > the amount needed 
+                    "Scarce (economic) resources" - available amount < the amount needed  
+                        Land - natural resources & usable for the production of goods & service. # Reward : Rent
+                        Labour - efforts of human being for the production of goods & service. # Reward : Wage
+                        Capital - manufactured inputs for the production of goods & service # Reward : Interest
+                        Entrepreneurship - special type of human talent that help us organize the production of goods & service # Reward : Profit
+
+                "Shortage" is a specific and short term problem but "Scarcity" is a universal and everlasting problem
+            2."Choice" :
+                Since economic resources are scarce , we can not satisfy all our wants. Therefore "Choices must be made".
+                we are forced to make a choice on what to produce, in what quantity & what not to produce 
+                Scarcity implies Choice , & Choice implies Cost  
+                
+            3."Opportunity Cost" :
+                A decision to have more of one thing, at the same time, means a decision to have less of another thing , so 
+                "opportunity cost" is the amount or value of the next best alternative that must be sacrificed (forgone) in order to obtain 
+                one more unit of a product. 
+            4."The Production Possibilities Frontier or Curve (PPF/ PPC)" :
+                "(PPF/PPC)" -a curve that shows various possible combinations of goods and services that we can produce
+                    (PPF/PPC) describe 3 important concepts
+                        1. concept of scarcity 
+                        2. concept of choice 
+                        3. concept of opportunity cost
+
+                    Opportunity_cost = |Change in sacrificed good / Change in the gained good|
+
+            5."Economic Growth and the PPF" 
+                - Economic growth is represented by outward shift of the PPF 
+                - A shift of the PPF along the Y- axis or X-axis is called "asymmetric growth"  
+
+
+            Scarcity → limited resource → limited output → unable to satisfy all our wants → choice involves costs → opportunity cost
+
+    # Basic economic questions / Central economic problems
+        "What to produce"?
+            problem of allocation of resources
+            decide which good to produce & in what quantities   
+        "How to produce"?
+            problem of choice of technique
+                labour-intensive techniques 
+                    the use of more labour relative to capital, per unit of output
+                capital-intensive techniques
+                    the use of more capital relative to labour, per unit of output
+        "For whom to produce"?
+            problem of distribution of national product
+            relates to how a material product is to be distributed among the members of a society    
+
+    # Economic systems
+        is a set of organizational and institutional arrangements established to answer the basic economic questions
+        
+        # Capitalist economy
+            * the oldest economic system 
+            * all production are privately owned , takes place by individual private Entrepreneurs who works for private Profit
+            - government intervention is minimal
+            Features of Capitalist Economy
+                - "The right to private property"
+                - "Freedom of choice by consumers"
+                - "Profit motive"
+                - "Competition"
+                - "Price mechanism"
+                - "Minor role of government"
+                - "Self-interest"
+                - "Inequalities of income"
+                - "Existence of negative externalities"
+            Advantage of Capitalist economy
+                - "Flexibility or adaptability"
+                - "Decentralization of economic power"
+                - "New types of consumer goods"
+                - "Growth of entrepreneurship"
+                - "Optimum utilization of productive resource"
+            Disadvantages of Capitalist economy
+                - "Inequality of income"
+                - "Unbalanced economic activity"
+                - "Exploitation of Labor"
+                - "Negative externalities"
+
+        # Command economy
+            - socialistic economy 
+            - The economic institutions that are engaged in production and distribution are owned and controlled by the state
+            Features of Command Economy
+                - "Collective ownership"
+                - "Central economic planning"
+                - "Strong government role"
+                - "Maximum social welfare"
+                - "Relative equality of incomes"
+            Advantage of Command economy
+                - "Absence of wasteful competition"
+                - "Balanced economic growth"
+                - "Elimination of private monopolies and inequalities"
+            Disadvantages of Command economy
+                - "Absence of automatic price determination"
+                - "Absence of incentives for hard work and efficiency"
+                - "Lack of economic freedom"
+                - "Red-tapism"
+
+        # Mixed economy
+            is an attempt to combine the advantages of both the capitalistic economy and the command economy
+            Features of Mixed Economy
+                - "Co-existence of public and private sectors"
+                - "Economic welfare"
+                - "Economic planning"
+                - "price mechanism"
+                - "Economic equality"
+            Advantages of Mixed Economy
+                - "Private property, price mechanism, profit motive"
+                - "Adequate freedom"
+                - "Rapid and planned economic development"
+                - "Social welfare & fewer economic inequalities"
+            Disadvantages of Mixed Economy
+                - "Ineffectiveness and inefficiency"
+                - "Economic fluctuations"
+                - "Corruption and black market"
+
+    # Decision making units and the circular flow model
+        * The three decision making units in a closed economy or Economic agents
+          closed economic : if a country does not have economic interaction with other countries
+            1.(Household)
+                "A household can be one person or more who live under one roof and make joint financial decisions"
+                    a= Selling of their resources, and
+                    b= Buying of goods and services
+            2.(Firm)
+                "A firm is a business organization that uses economic resources to produce goods and services"
+                    a= Buying of economic resources
+                    b= Selling of their products.
+            3.(Government)
+                "A government is an organization that has legal and political power to control or influence households, firms and markets.
+                They also provides some types of goods and services known as public goods and services for the society."
+
+        * These 3 agents interact in two markets
+            - Product Market
+                * It is a market where goods and services are transacted/ exchanged
+                * Households and governments buy goods and services from business firms.
+            - Formal Market (input Market)
+                * owners of resources (households) sell their resources to business firms and governments.
+        
+                * The (circular flow-diagram) is a visual model of the economy that shows how money (Birr), economic resources and 
+                  goods and services flows through markets among the decision making units.  
+
+                * Read about Two sector model & Three sector model or check here 
+                    (https://youtu.be/5ro23-HjzPE) 
+
+End of Chapter One
                 
 
 
